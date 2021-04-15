@@ -1,4 +1,5 @@
 clc;
+clear;
 A = magic(6);
 
 fprintf('1) A = \n')
